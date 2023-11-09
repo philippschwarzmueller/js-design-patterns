@@ -8,7 +8,7 @@ let rl = readline.createInterface({
  * @abstract
  */
 class HotDrink {
-  consume() {}
+  consume() { /* placeholder for virtual method */ }
 }
 
 /** Tea class
